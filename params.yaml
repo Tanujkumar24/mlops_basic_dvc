@@ -1,6 +1,6 @@
 base:
   project: winequality-project
-  randaom_state: 42
+  random_state: 42
   target_col: TARGET
 
 data_source:
