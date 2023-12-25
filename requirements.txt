@@ -4,3 +4,5 @@ scikit-learn
 pandas
 pyyaml
 numpy
+pytest
+tox
