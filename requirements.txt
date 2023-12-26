@@ -1,8 +1,11 @@
+# local package install
+-e .
+
+# third party packages
 dvc
 dvc[gdrive]
 scikit-learn
 pandas
-pyyaml
-numpy
 pytest
 tox
+flake8
