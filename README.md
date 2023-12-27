@@ -68,3 +68,6 @@ build your own package commands-
 ```bash
 python setup.py sdist bdist_wheel
 ```
+#output
+![image2](https://github.com/Tanujkumar24/mlops_basic_dvc/assets/63635976/0f41cc72-e6c2-4437-be06-bf5c1fb613b3)
+
